@@ -19,7 +19,7 @@ When opening the website you will be asked for the name of your robot. After tha
 
 ## License
     
-This project is licensed under the [MIT](LICENSE.txt) license.
+This project is licensed under the [MIT](./LICENSE) license.
     
 ## Languages
 
